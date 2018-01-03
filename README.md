@@ -1,6 +1,8 @@
 # Top100Songs
 Machine Learning algorithm to predict if a song will be in iTunes top 100
 
+utilizes beautifulsoup4 and requests library
+
 start by looking into itunes and spotify music libraries
 including:
 azlyrics.com
